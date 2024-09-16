@@ -1,0 +1,17 @@
+[
+  {
+    "transportId": 1,
+    "name": "John Doe",
+    "priority": "RED"
+  },
+  {
+    "transportId": 2,
+    "name": "Jane Doe",
+    "priority": "RED"
+  },
+  {
+    "transportId": 3,
+    "name": "Alice",
+    "priority": "RED"
+  }
+]
